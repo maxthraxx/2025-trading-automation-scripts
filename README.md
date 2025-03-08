@@ -2,4 +2,4 @@
 2025-trading-automation-scripts
 
 
-![Example 1](Figure1.png)
+![Example 1](Figure_1.png)
