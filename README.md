@@ -8,6 +8,8 @@ Built out of curiosity and refined through use—these scripts help automate tra
 ![Example 2](Figure_2.png)
 ![Example 3](Figure_3.png)
 ![Example 4](Figure_4.png)
-![Example 4](Figure_5.png)
+![Example 5](Figure_5.png)
+![Example 6](Figure_6.png)
+![Example 7](Figure_7.png)
 
 [Online Example of Earlier Model](http://api.jamessawyer.co.uk:8000/)
